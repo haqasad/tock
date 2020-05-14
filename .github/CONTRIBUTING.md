@@ -217,13 +217,18 @@ and make any required changes. PRs must pass the formatting checks before landin
 Tock is dual-licensed under Apache2/MIT. Files in Tock require a short header
 indicating this. In 99% of cases, the following text should be at the top of every file:
 
-> Copyright The Tock Project Authors.
+> © Copyright 2020[-20XX] The Tock Project Authors.
 >
 > Dual licensed under the Apache License, Version 2.0 or the MIT License, at your option.
 > See the License for the specific language governing permissions and limitations under the License.
 > This file may not be copied, modified, or distributed except according to those terms.
 
-This should be automatically enforced by CI tooling.
+If you create a new "version or edition" of a given work, then the date range
+should be extended to include the newest work. In practice, this means any
+update to a source file will require updating the range (and some churn
+hopefully largely restricted to January each year).
+
+This header and date updates should be automatically enforced by CI tooling.
 
 ### Step 9: Landing
 
