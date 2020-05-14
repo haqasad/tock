@@ -228,6 +228,10 @@ should be extended to include the newest work. In practice, this means any
 update to a source file will require updating the range (and some churn
 hopefully largely restricted to January each year).
 
+For simplicity, we ask that copyright should always be held by the Tock Project
+Authors. We are happy to recognize new contributors in the
+[AUTHORS file](../Authors.md).
+
 This header and date updates should be automatically enforced by CI tooling.
 
 ### Step 9: Landing
