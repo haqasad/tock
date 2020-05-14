@@ -4,17 +4,18 @@ history: `git shortlog -s -n`.
 
 Organizations that have contributed code to Tock include:
 
-  * Stanford University
-  * Princeton University
-  * University of California, Berkeley
-  * University of Virginia
-  * University of Michigan
+  * Atihita
   * Chalmers University
   * Google
   * Helium
-  * Atihita
   * MIT
   * MIT Lincoln Laboratory
+  * Princeton University
+  * Stanford University
+  * University of California, Berkeley
+  * University of California, San Diego
+  * University of Michigan
+  * University of Virginia
 
 _Note: the above list may be incomplete. If your organization has supported you in
 contributing to Tock, and wish to be acknowledged, please update this list accordingly._
